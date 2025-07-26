@@ -44,7 +44,7 @@ let myobj = {
 }
 
 const myfun= function (){
-    print("Function is ready")
+    console.log("Function is ready")
 }
 
 
